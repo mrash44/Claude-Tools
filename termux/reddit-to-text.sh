@@ -1,13 +1,18 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # reddit-to-text.sh - Save Reddit threads / user pages as readable .txt files.
 #
+# Reddit now blocks unauthenticated downloads, so this pulls the same posts and
+# comments from the Arctic Shift archive (free, no key). Very new comments can
+# be missing for a day or two.
+#
 # Setup (once, in Termux):
 #   pkg install curl jq
 #   termux-setup-storage        # optional: lets output go to phone's Download folder
 #
 # Usage:
-#   bash reddit-to-text.sh                 # uses the built-in URL list below
-#   bash reddit-to-text.sh urls.txt        # one URL per line
+#   bash reddit-to-text.sh                 # download the built-in URL list below
+#   bash reddit-to-text.sh --check         # only report which threads the archive has
+#   bash reddit-to-text.sh urls.txt        # one URL per line (works with --check too)
 #   OUT=~/mydir bash reddit-to-text.sh     # custom output folder
 
 set -u
@@ -33,6 +38,8 @@ https://www.reddit.com/r/melbourne/comments/1x5gftg/guide_to_what_actually_happe
 https://www.reddit.com/user/SomeoneHealth/
 )
 
+CHECK=0
+if [ "${1:-}" = "--check" ]; then CHECK=1; shift; fi
 if [ $# -ge 1 ]; then
   mapfile -t URLS < <(grep -E '^https?://' "$1")
 fi
@@ -45,94 +52,135 @@ if [ -z "${OUT:-}" ]; then
   if [ -d "$HOME/storage/downloads" ]; then OUT="$HOME/storage/downloads/reddit"
   else OUT="$HOME/reddit"; fi
 fi
-mkdir -p "$OUT"
+[ $CHECK = 1 ] || mkdir -p "$OUT"
 
-UA="Mozilla/5.0 (Linux; Android 14) termux-reddit-to-text/1.0"
+API="${API:-https://arctic-shift.photon-reddit.com/api}"
+UA="termux-reddit-to-text/2.0"
 
-# jq program: turns Reddit's JSON into indented plain text.
-read -r -d '' JQ <<'EOF'
+# GET an API path; prints JSON, fails on HTTP/API errors.
+get() {
+  local body
+  body=$(curl -sSL --compressed -A "$UA" --retry 3 --retry-delay 5 -f "$API/$1") || return 1
+  echo "$body" | jq -e 'has("data") and (.data != null)' >/dev/null 2>&1 || return 1
+  echo "$body"
+}
+
+# Fetch every result of a search endpoint (100 per page, oldest first),
+# printed as one JSON array.
+get_all() {
+  local q="$1" after=0 page last pages=()
+  while :; do
+    page=$(get "$q&limit=100&sort=asc&after=$after") || return 1
+    pages+=("$page")
+    [ "$(echo "$page" | jq '.data | length')" -lt 100 ] && break
+    last=$(echo "$page" | jq '.data[-1].created_utc | floor')
+    # Back up one second so items sharing the last timestamp aren't lost.
+    [ "$last" -le "$after" ] && break
+    after=$((last - 1))
+    sleep 1
+  done
+  printf '%s\n' "${pages[@]}" | jq -s '[.[].data[]] | unique_by(.id) | sort_by(.created_utc)'
+}
+
+read -r -d '' COMMON <<'EOF'
 def ind($d): [range($d)] | map("    ") | join("");
 def when: (.created_utc // 0 | floor | strftime("%Y-%m-%d %H:%M UTC"));
 def para($p): (. // "") | split("\n") | map($p + .) | .[];
-
-def comment($d):
-  if .kind == "t1" then
-    .data as $c
-    | (ind($d) + "+ u/" + ($c.author // "[deleted]") + "  |  "
-        + (($c.score // 0) | tostring) + " pts  |  " + ($c | when)),
-      ($c.body | para(ind($d) + "| ")),
-      "",
-      (if ($c.replies | type) == "object"
-         then $c.replies.data.children[] | comment($d + 1)
-         else empty end)
-  elif .kind == "more" and (.data.count // 0) > 0 then
-    ind($d) + "[" + (.data.count | tostring) + " more replies not loaded]", ""
-  else empty end;
-
 def post:
   ("TITLE:   " + .title),
   ("SUB:     r/" + .subreddit),
   ("AUTHOR:  u/" + (.author // "[deleted]")),
   ("POSTED:  " + when),
-  ("SCORE:   " + (.score | tostring) + "   COMMENTS: " + (.num_comments | tostring)),
+  ("SCORE:   " + ((.score // 0) | tostring) + "   COMMENTS: " + ((.num_comments // 0) | tostring)),
   ("URL:     https://www.reddit.com" + .permalink),
   (if (.is_self | not) and .url then "LINK:    " + .url else empty end),
   "",
   (if (.selftext // "") != "" then .selftext | para("") else empty end);
+EOF
 
-if type == "array" then
-  # Thread page: [post listing, comment listing]
-  (.[0].data.children[0].data | post),
-  "", ("=" * 70), "COMMENTS", ("=" * 70), "",
-  (.[1].data.children[] | comment(0))
-else
-  # User page: mixed listing of posts (t3) and comments (t1)
-  .data.children[] |
-  (if .kind == "t3" then
-     ("#" * 70), "[POST]", (.data | post)
-   else
-     .data as $c
-     | ("#" * 70),
-       "[COMMENT] in r/" + $c.subreddit + " on: " + ($c.link_title // ""),
-       "POSTED:  " + ($c | when) + "   SCORE: " + (($c.score // 0) | tostring),
-       "URL:     https://www.reddit.com" + $c.permalink,
-       "",
-       ($c.body | para(""))
-   end), ""
-end
+# Thread: $post = post object, input = flat array of comments. Rebuilds the reply tree.
+read -r -d '' THREAD <<'EOF'
+($c | map({key: .id, value: true}) | from_entries) as $have
+| ($c | group_by(.parent_id) | map({key: .[0].parent_id, value: .}) | from_entries) as $kids
+| def tree($id; $d):
+    ($kids[$id] // [])[] |
+    (ind($d) + "+ u/" + (.author // "[deleted]") + "  |  "
+       + ((.score // 0) | tostring) + " pts  |  " + when),
+    (.body | para(ind($d) + "| ")),
+    "",
+    tree("t1_" + .id; $d + 1);
+  ($post | post),
+  "", ("=" * 70), "COMMENTS (" + ($c | length | tostring) + " archived)", ("=" * 70), "",
+  tree("t3_" + $post.id; 0),
+  # Replies whose parent comment isn't in the archive
+  ($c[] | select((.parent_id | startswith("t1_")) and ($have[.parent_id[3:]] | not))
+   | "[reply to a comment missing from the archive]",
+     ("+ u/" + (.author // "[deleted]") + "  |  " + ((.score // 0) | tostring) + " pts  |  " + when),
+     (.body | para("| ")), "", tree("t1_" + .id; 1))
+EOF
+
+# User page: input = merged array of posts and comments, newest first.
+read -r -d '' USER <<'EOF'
+sort_by(-.created_utc)[] |
+("#" * 70),
+(if has("title") then "[POST]", post
+ else
+   "[COMMENT] in r/" + .subreddit + "   POSTED: " + when + "   SCORE: " + ((.score // 0) | tostring),
+   "URL:     https://www.reddit.com" + (.permalink // ("/comments/" + (.link_id[3:]) + "/_/" + .id)),
+   "",
+   (.body | para(""))
+ end), ""
 EOF
 
 ok=0; fail=0
 for url in "${URLS[@]}"; do
   url="${url%%\?*}"; url="${url%/}"
-  # File name: sub_id_slug.txt  or  user_NAME.txt
-  name=$(echo "$url" | sed -E \
-    -e 's#.*/r/([^/]+)/comments/([^/]+)/?([^/]*).*#\1_\2_\3#' \
-    -e 's#.*/(user|u)/([^/]+).*#user_\2#')
-  file="$OUT/${name%_}.txt"
-  path="${url#*reddit.com}"
-  echo "-> $path"
+  if [[ "$url" =~ /comments/([a-z0-9]+)(/([^/]*))? ]]; then
+    id="${BASH_REMATCH[1]}"; slug="${BASH_REMATCH[3]}"
+    sub=$(echo "$url" | sed -E 's#.*/r/([^/]+)/.*#\1#')
+    file="$OUT/${sub}_${id}${slug:+_$slug}.txt"
+    echo "-> r/$sub $id"
 
-  json=""
-  for host in www.reddit.com old.reddit.com; do
-    json=$(curl -sSL --compressed -A "$UA" --retry 2 --retry-delay 5 \
-      "https://$host$path/.json?raw_json=1&limit=500") && echo "$json" | jq -e . >/dev/null 2>&1 && break
-    json=""
-    sleep 3
-  done
+    post=$(get "posts/ids?ids=$id" | jq -c '.data[0] // empty')
+    if [ -z "$post" ]; then
+      echo "   NOT IN ARCHIVE (or archive unreachable)"; fail=$((fail+1)); continue
+    fi
+    if [ $CHECK = 1 ]; then
+      echo "   OK: $(echo "$post" | jq -r '"\(.num_comments // 0) comments - \(.title)"')"
+      ok=$((ok+1)); sleep 1; continue
+    fi
+    comments=$(get_all "comments/search?link_id=$id") || { echo "   FAILED fetching comments"; fail=$((fail+1)); continue; }
+    if echo "$comments" | jq -r --argjson post "$post" "$COMMON . as \$c | $THREAD" > "$file"; then
+      echo "   saved $file ($(echo "$comments" | jq length) comments)"; ok=$((ok+1))
+    else
+      echo "   FAILED to format"; rm -f "$file"; fail=$((fail+1))
+    fi
 
-  if [ -z "$json" ]; then
-    echo "   FAILED (blocked or rate-limited - try again later or on mobile data)"
-    fail=$((fail+1))
-  elif echo "$json" | jq -r "$JQ" > "$file" 2>/dev/null; then
-    echo "   saved $file"
-    ok=$((ok+1))
+  elif [[ "$url" =~ /(user|u)/([^/]+) ]]; then
+    user="${BASH_REMATCH[2]}"
+    file="$OUT/user_${user}.txt"
+    echo "-> u/$user"
+    posts=$(get_all "posts/search?author=$user") && comments=$(get_all "comments/search?author=$user")
+    if [ $? -ne 0 ]; then
+      echo "   NOT IN ARCHIVE (or archive unreachable)"; fail=$((fail+1)); continue
+    fi
+    np=$(echo "$posts" | jq length); nc=$(echo "$comments" | jq length)
+    if [ $CHECK = 1 ]; then
+      echo "   OK: $np posts, $nc comments"; ok=$((ok+1)); continue
+    fi
+    if jq -rs "$COMMON .[0] + .[1] | $USER" <(echo "$posts") <(echo "$comments") > "$file"; then
+      echo "   saved $file ($np posts, $nc comments)"; ok=$((ok+1))
+    else
+      echo "   FAILED to format"; rm -f "$file"; fail=$((fail+1))
+    fi
+
   else
-    echo "   FAILED to parse"
-    rm -f "$file"; fail=$((fail+1))
+    echo "-> skipping unrecognised URL: $url"
+    continue
   fi
-  sleep 2   # be polite, avoid Reddit rate limits
+  sleep 1   # be polite to the volunteer-run archive
 done
 
 echo
-echo "Done: $ok saved, $fail failed. Files in: $OUT"
+if [ $CHECK = 1 ]; then echo "Check done: $ok available, $fail missing."
+else echo "Done: $ok saved, $fail failed. Files in: $OUT"; fi
