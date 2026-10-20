@@ -1,0 +1,72 @@
+TITLE:   How telehealth psychology actually works in Sydney (Medicare, the real fees, and the GP step nobody explains)
+SUB:     r/AussieMentalHealth
+AUTHOR:  u/dezekial
+POSTED:  2026-06-11 04:42 UTC
+SCORE:   4   COMMENTS: 6
+URL:     https://www.reddit.com/r/AussieMentalHealth/comments/1u2p6wx/how_telehealth_psychology_actually_works_in/
+
+I spent a while trying to work out how to get subsidised psychology for anxiety in Sydney without overpaying, and most of what's online is either a clinic trying to book you in or a government page written in jargon. Here's the plain version I wish someone had just given me.
+
+You start with your GP, not the psychologist. Book a longer appointment (tell reception it's for a mental health plan, they'll usually allocate 20-30 minutes) and ask for a Mental Health Treatment Plan (MHTP). That document is what unlocks the Medicare rebates. It's free or cheap depending on whether your GP bulk bills.
+
+With an MHTP you get up to 10 individually rebated sessions in a calendar year. It's structured as 6 sessions, then a GP review, then up to 4 more.
+
+The rebate amount depends on the psychologist's registration type, and this is the bit that confuses everyone:
+
+* See a registered psychologist and Medicare gives you back $98.95 per session.
+* See a clinical psychologist (they hold an extra endorsement) and you get back $145.25 per session.
+
+Those are the current Better Access rebates as of 1 July 2025. The rebate is identical whether you see them in person or over video, so telehealth costs you nothing extra in rebate terms.
+
+What you actually pay is the psychologist's fee minus that rebate. The gap is entirely up to the individual practitioner. Some bulk bill so you pay $0, plenty charge $200-300 a session so you're out of pocket roughly $100-200 after the rebate. Ask the fee and the gap before you book. It's a totally normal question and any decent practice will answer it straight.
+
+One thing worth knowing: if you're putting this off because that first appointment feels like a lot: doing it by video from home genuinely lowers the barrier, which matters most for social anxiety, where just getting yourself to a first in-person session is often the hardest part.
+
+If it helps, I put together a directory of Sydney telehealth psychologists for anxiety with free info at [sydneyanxietypsychology.com.au](http://sydneyanxietypsychology.com.au), but the above is the gist of it.
+
+======================================================================
+COMMENTS (10 archived)
+======================================================================
+
++ u/AutoModerator  |  1 pts  |  2026-06-11 04:42 UTC
+| If you are seeking free support in your community, try here: https://www.health.vic.gov.au/mental-health-services/mental-health-and-wellbeing-locals
+| 
+| *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AussieMentalHealth) if you have any questions or concerns.*
+
++ u/General_Example_798  |  1 pts  |  2026-06-11 06:01 UTC
+| What are you using the names and email addresses you store for? 
+
++ u/janLinja  |  3 pts  |  2026-06-11 07:26 UTC
+| This just feels like an advert.
+
+    + u/General_Example_798  |  2 pts  |  2026-06-11 07:29 UTC
+    | It is. The company makes AI websites and are trying to create traffic to make more AI websites, as though the mental health space isn't confusing enough already.
+
+        + u/Effective_Pen69  |  1 pts  |  2026-06-17 12:54 UTC
+        | yuk
+
++ u/janLinja  |  5 pts  |  2026-06-11 07:45 UTC
+| ## If you want an actual website...
+| 
+| https://someone.health
+| 
+| It will connect you to actual psychologists (either registered or clinical, the latter being more expensive) who can provide telehealth psychological support. You can get access to Medicare-rebatable sessions through them, and after that you can get access to pretty reasonable rates. 
+| 
+| This isn't an advert for something I have a stake in, I'm just your average mentally-ill doctor who was given this resource as something to provide my patients with during my training. It's not flawless, it's just another service and I don't make any money from it. **I have not personally used it,** this is something I was given as a resource to give to my patients.
+
+    + u/Find_another_whey  |  1 pts  |  2026-06-12 10:12 UTC
+    | Yeah someone health is good
+    | 
+    | Even the intake staff that open emails are able to recommend therapists if you explain what you're looking for, and if the list is a bit long for you to navigate alone. 
+
+    + u/Effective_Pen69  |  1 pts  |  2026-06-17 12:46 UTC
+    | Good to know 
+
++ u/Effective_Pen69  |  1 pts  |  2026-06-17 12:46 UTC
+| This is a helpful blog post I read last week: [https://www.ivypsychology.com.au/ivy-blog/mental-health-treatment-plan-what-to-ask-gp](https://www.ivypsychology.com.au/ivy-blog/mental-health-treatment-plan-what-to-ask-gp)
+| 
+| 
+
++ u/Effective_Pen69  |  1 pts  |  2026-06-17 12:54 UTC
+| [https://www.ivypsychology.com.au/ivy-blog/](https://www.ivypsychology.com.au/ivy-blog/) has some good info about medicare, therapy etc
+

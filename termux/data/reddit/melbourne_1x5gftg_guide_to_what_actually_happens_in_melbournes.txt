@@ -1,0 +1,664 @@
+TITLE:   Guide to what actually happens in Melbourne's mental health system
+SUB:     r/melbourne
+AUTHOR:  u/xiaolongbao99
+POSTED:  2026-10-14 03:03 UTC
+SCORE:   434   COMMENTS: 123
+URL:     https://www.reddit.com/r/melbourne/comments/1x5gftg/guide_to_what_actually_happens_in_melbournes/
+
+Trigger warning: Self-harm, suicide
+
+EDIT: This writeup is mostly focused those who have not interacted with the mental health system before, still have the capacity/clarity of mind/desire to seek help, and want a better idea of what it actually happens. It is a bit gloomy and that is a reflection of my own experiences going through it, but I just wanted to add, reaching out for help is the right thing to do. If you feel discouraged, it's not your fault, you're doing the right thing and we as a country/state should be the ones doing better. Good luck <3
+
+Hi All, I've seen a number of posts recently on this topic and so I'm writing this post to help you or someone you know to better navigate the mental health system in Melbourne as someone who's actually been through it. It can be so hard to understand the actual process like referral avenues and costs, so hoping this can help someone.
+
+# Crisis Supports
+
+**Crisis helplines**
+
+Here I'm talking about phone lines like Lifeline and BeyondBlue. So Lifeline and BeyondBlue are not actually not counselling services, they are only there to "support" you tell you what options you have and to refer you to other services. A lot of people call up these services and come away disappointed because they feel that they have received no help. Unfortunately, the people servicing Lifeline are unpaid volunteers and not actually clinically trained to give you counselling, their main focus to make sure you're physically safe and not going to harm yourself in that moment. That's why you see a lot of complaints like "Lifeline just told me to go make a cup of tea or take a bath". Their primary job is to make sure you're safe in the moment, not necessarily to make you feel better.
+
+Suicideline is better in that the people who staff it are actual counsellors who will counsel you, as opposed to just directing you to services.
+
+**Mental Health Triage**
+
+This is a staffed phone line affliated with a hospital based on your catchment zone who will do an assessment with you over the phone. I strongly recommend contacting them for yourself or for someone else as the first option. If you meet the criteria, you will be case-managed which means you will have a dedicated team of professionals and support works looking after you. This opens up access to a lot of public mental health programs which require you to be case-managed. However, keep in mind that the criteria for this is also quite high and often requires you to be unable to function independently. For those who hold down steady employment but are really really in the dumps, this can be difficult. They can also refer you to the CATT team which has a lower bar.
+
+**Police welfare checks**
+
+For a multitude of reasons, I strongly advise against calling the police as a first avenue if someone is expressing suicidal ideation. It is better to call up Mental Health Triage who are better equipped to deal with these situations. If you call a welfare check on someone, the police will generally call them first, and then check on them, but unless the person is actively harming themselves in the moment, say they are planning to take action immediately, or in a psychotic state, the police will generally assess them as low risk with no follow-up actions. The bar for an involuntarily hold under the Mental Health Act is quite high. This is kind of tied into the next part.
+
+**Emergency room/public psych ward**
+
+When you present to the ER voluntarily and say you're going to unalive, you'll get triaged to see the mental health nurse. The wait time is often upwards of 6 hours in quite an uncomfortable environment. If you do get seen, you will do a mental health assessment. Generally, unless you are presenting in the same case as above (psychotic or current and *immediate* risk of harm), you'll generally be advised to go home and see your GP who will give you options. You can also be given some drugs to calm you down like Diazepam. Unfortunately, bed spaces are severely lacking and it is a very high bar to get admitted - "just" being suicidal usually does not meet this, like "I really am planning to kill myself in the next two days, but I am not doing it right now". However, they can refer you to CATT.
+
+If you are deemed as needing admission, it's quite a chaotic and scary place with a lot of people who aren't in their best states of mind around. Private is very different as it's voluntary and there is a code of conduct.
+
+**CATT**
+
+The Crisis Assessment and Treatment Team is basically a team of support people tied to a hospital depending on your catchment zone. If you meet the criteria, which is lower than an involuntary hold and case management, they will assign people to come visit you at your residence and do a risk assessment. Then depending on your level of need they will give you a call to check-up on you every day. The goal of CATT is to act as a stop-gap while you're waiting for admission into a hospital or program. They are able to refer to you a private mental health hospital, which I'll go into below.
+
+# Actual stabilisation/treatment
+
+Now it's beginning to look like unless you meet the criteria for case management, every avenue of help is a referral to another service to another service. So where is the actual treatment? How do you actually get better?
+
+**GP**
+
+Your GP is the primary avenue who can refer you to all the other services. Unfortunately, it's rare to find a good GP who cares and bulk-billing has practically disappeared. Your GP can refer to private hospitals (both inpatient and outpatient) as well as private psychologists where you will be able to access actual treatment.
+
+**PARC**
+
+Prevention and Recovery Centre provides short-term residential support (stabalisation) for those with mental health conditions and is a public service and is what is called a Step Up Step Down Service (step up from community care, step down from hospitalisation). You can be referred to this service by CATT or your GP (only in certain areas). There is also a YPARC which is for youth. 
+
+**Private psych ward (inpatient)**
+
+These are private hospitals like Epworth, Delmont, Melbourne Clinic, etc. You can be referred by either the CATT team mentioned above or your GP. I highly recommend this service called Bedbrokers. Basically you can ask CATT or your GP to send a generic referral to them, and they will do the hard work of contacting all the hospitals to see which ones have bed spaces. For someone in a crisis, this admin help really makes a big difference, especially if you don't have an advocate in your personal life.
+
+A big factor for many people is cost. You will have no out-of-pocket costs if you have the Gold level of hospital cover, which fully covers all inpatient psychiatric treatment. If you have a lower level of cover, the government has this once-in-a-lifetime mental health waiver that lets you upgrade to the Gold cover and access these services immediately without serving the 2-month waiting period.
+
+At the hospital, a psychiatrist will review you and do an assessment, you'll have your belongings searched and given a room. There is generally not much to do, but you're in a safe environment which might help you get through a crisis. The treatment is generally medication and participation in group programs, such as DBT, that teach you skills to go about your life. After assessment, you usually get two hours of leave a day which can you upgraded to four.
+
+**Private day programs (outpatient)**
+
+A number of hospitals also offer outpatient group day programs that teach you these skills. They are not individual counselling/therapy, more like mini classes. You need to be referred to this by your GP. This is also covered under your insurance if you have Gold cover, however there is an initial consultation fee with a psychiatrist who has to admit you to the day program. So the GP refers you to the hospital, the hospital's psychiatrist then admits you to the day program which goes weekly for around 12 weeks per module.
+
+**Private psychologist**
+
+This is the main way to access individual counselling. It is incredibly rare to find a bulk-billed psychologist nowadays who is taking on new patients. If you found this option, great! Otherwise, the Medicare assistance that is available is 10 subsidised sessions a year. To get this, you need to be referred by your GP who will create a mental health care plan. This generally reduces the out of pocket cost, depending on the psychologist and how much they charge, to about $100 for a clinical psychologist and a bit more for non-clinical as the rebate is lower. If you don't have a psychologist in mind, ask for a generic referral which is valid for all.
+
+However, a lot of psychologists will not work with people who are actively suicidal and refer them to the public system. Then, a lot of these same people are told by the public system that they are not sick enough. So you're too sick for private, but not sick enough for public.
+
+**Private psychiatrist**
+
+Psychiatrists are another option but more expensive than psychologists. There is this "loophole" you can use to make the cost of ongoing psychiatry treatments more affordable. Once you hit $2,699.10, the Medicare Safety Net means you will have 80% of your out-of-pocket costs subsidised. Unfortunately psychologists aren't covered by this. So if you find a psychiatrist who specialises in talk therapy, this might work out to be cheaper if you see them very regularly.
+
+# Problems with the system
+
+If you've read this far, you might be starting to see a theme. It is incredibly difficult to actually get meaningful treatment - every visible service is a risk assessment and then a referral to another service. The eligibiltiy criteria for different services leave gaps for those in the middle. It's convoluted and actual treatment is incredibly expensive.
+
+* **There is a massive gap in the system for people who are at high risk of suicide but present voluntarily and as high-functioning. These people are asking for help, like they've been told to, they've been told to reach out, they're doing the right thing, only to be shown that the promised help isn't there or they're not "sick enough".**
+* Almost all of the voluntary treatment programs are private and need you to have insurance. This creates signficant barriers for those who don't meet the requirement for case managment but desperately need help.
+* 10 psychology sessions a year is not enough for those with chronic conditions. Best practice for a lot of conditions is weekly, while some are fortnightly. These sessions may work well for those dealing with general stress and anxiety, but are burned through very quickly for those with higher needs. What do you do if you desperately need this treatment but can't afford to continue it? It's heartbreaking to say well you're just out of luck.
+
+I have always been proud of Australia's medical system and what that says about our values as a country. Unfortunately, this is an area where we fall terribly short. It is election season and I implore you, if you are affected by mental health or love someone who is, please bring this up as something you care about and want to see change in.
+
+======================================================================
+COMMENTS (134 archived)
+======================================================================
+
++ u/[deleted]  |  1 pts  |  2026-10-14 04:18 UTC
+| [removed]
+
++ u/HappyPlatypus6034  |  5 pts  |  2026-10-14 04:20 UTC
+| Appreciate the write-up!
+
++ u/W-T-foxtrot  |  62 pts  |  2026-10-14 04:24 UTC
+| I would like to add:
+| 
+| Call your catchment’s psychiatric triage service. You might be eligible or meet criteria for the HOPE team, or their outpatient psychology team if there is one - this is slowly increasing.
+| 
+| You can get a one off free psychiatry appointment from your GP under item 291 about 85% rebate. But you can only get this once - I’m not sure lifetime or per year.  
+| 
+|  
+
+    + u/xiaolongbao99  |  14 pts  |  2026-10-14 04:57 UTC
+    | Thank you for reminding me of this - I have added it.
+
+    + u/PrimaryWaste9407  |  6 pts  |  2026-10-14 05:40 UTC
+    | I believe there are still bulk billed options for 291s, which is a one off assessment with a psychiatrist to provide recommendations back to GP.
+    | 
+    | There is also a 293 which is a follow up appointment.
+    | 
+    | Highly recommend attending a drop in bulk billing clinic and speaking to one of their many competent doctors.
+
+        + u/scjyf  |  4 pts  |  2026-10-14 07:15 UTC
+        | The only bulk billed private one I know of is ‘call to mind’ but only if you live in a regional area (MM2-7)
+
+    + u/scjyf  |  6 pts  |  2026-10-14 07:12 UTC
+    | 291 is once a year as the psychiatrist will write a proposed treatment plan for the 12 months after your appt (for your GP to follow up on, or they might recommend you continue seeing them)
+
+    + u/Acceptable-Eye-8699  |  2 pts  |  2026-10-15 03:55 UTC
+    | I had a great experience with the HOPE team. Not sure if theyre great accross the board but they were really good for me
+
++ u/NOwallsNOworries  |  31 pts  |  2026-10-14 04:32 UTC
+| You are missing most of the community mental health treatment teams of the public health system like PARCs. A lot of them require at first admission to an acute hospital based ward but not at all of them, and you're right in identifying that CATT teams or EMAAP/ACIS teams will play a big part in determining that. I'd also definitely mention the triage layers of the public system, you can call as someone in crisis OR as a carer/loved one of someone in crisis to ascertain what help can be given to you.
+| 
+| There's also a relatively new layer of the public system, the Wellbeing Locals. They arent triage per se but will act in a way to try and give you the help you need, you can walk in or you can call too
+| 
+| I appreciate your write up, but I also think for people who need it, the help is there. Someone feeling helpless already might see what you've written and think "whats the point, im not going to try and get help"
+
+    + u/xiaolongbao99  |  18 pts  |  2026-10-14 04:36 UTC
+    | You are right, let me edit that to add it in. My writeup was a bit of a reflection of my own experience where I felt like I was at my wit's end and trying so hard to get help, but being told by a lot of services that I didn't meet the criteria for them.
+
+        + u/x1002134017  |  13 pts  |  2026-10-14 06:46 UTC
+        | Definitely add the Locals (https://www.health.vic.gov.au/mental-health-services/mental-health-and-wellbeing-locals) to this list, I believe they were designed to fill some of the gaps that you've described here!
+        | 
+        | Great post, thanks for taking the time OP.
+
++ u/Petulantraven  |  23 pts  |  2026-10-14 04:45 UTC
+| Really well put together account OP. Thank you for sharing. 
+| 
+| This - above all other reasons - is the reason I keep paying stupid amounts of money for private health insurance. 
+
+    + u/Ok-Magazine-7393  |  7 pts  |  2026-10-14 05:00 UTC
+    | Exactly. You only need to start seeking help, or have a friend/loved one needing help, before you quickly realise how critical having private health insurance is for mental health. 
+
++ u/mermaidfairybunny  |  11 pts  |  2026-10-14 04:49 UTC
+| For some reason, I can’t award this post, so I’m commenting instead to say thank you so much for your time and effort putting this here, it’s definitely going to be so beneficial for so many people. 🩷
+
+    + u/xiaolongbao99  |  3 pts  |  2026-10-14 04:57 UTC
+    | Aw, I appreciate this. Thank you 🩷
+
+    + u/IAmABakuAMA  |  2 pts  |  2026-10-14 06:48 UTC
+    | (I think it's because the post is marked NSFW, but I also second your comment)
+
++ u/TraditionalVisit9654  |  -1 pts  |  2026-10-14 04:50 UTC
+| I have no faith in public mental health. I was not suicidal and was committed for 2 weeks by a public health nurse after a 15 minute conversation after police visited our home at my narcissistic wife's request after I discovered she was cheating and called me crazy. I was very disappointed in the system. I'm 55 with no history of any mental health problems. I was told I had to go for assessment but in reality I was held for 2 weeks with no clothes. I was washing my undies in the sink everyday. I never saw a psychologist any time I was there except for the day I left when there was a panel of 6 doctors and nurses. I was prescribed antipsychotic medications with no explanations as to the reason or analysis. I saw this as pseudoscience and a means to fill beds to maximise funding. Now I just get dismissed as a loon by family, friends and colleagues as my wife made sure everyone was aware. Do no harm as the hypocratic oath is a laugh. Proper assessment needs to be taken seriously, not heresy.
+| I'm separated , (best decision) , unemployed thanks to gossip, live alone and much happier but very disappointed in public mental health. Would not recommend.
+
+    + u/Fat-thecat  |  12 pts  |  2026-10-14 06:20 UTC
+    | Mate, they don't need to admit people who "aren't crazy to fill beds, the system has been at crisis levels for years now, there's so many genuinely unwell people who need a bed, they wouldn't just stick someone in a bed for 2 weeks to "maximise funding"
+
+        + u/xiaolongbao99  |  9 pts  |  2026-10-14 06:23 UTC
+        | This is true, there's people literally dying to get in but there's no space. You wouldn't be in a public bed space unless you need it.
+
++ u/TheGlamorousLife7  |  8 pts  |  2026-10-14 04:55 UTC
+| I became my own treatment plan, like most here probably have or plan to.
+| 
+| Solid write up.
+
++ u/Blackflames648  |  11 pts  |  2026-10-14 05:02 UTC
+| The mental health system is trully frightening, recent crisis showed me how inept to handle a crisis. I genuinely believe our government is ok with us dying. 
+
++ u/Am_A_Leech  |  10 pts  |  2026-10-14 05:15 UTC
+| my experience with the mental health system was absolutely dreadful, eventually i just decided to treat myself instead (bad idea). i am now a nicotine addict and workaholic to keep my mind off the bad thoughts. lack of rest has put me into deep states of paranoia multiple times and im destroying my lungs with at least a pack a day. i really wish we had better mental health support, problem is the government doesnt have enough money to do that :(
+
+    + u/xiaolongbao99  |  8 pts  |  2026-10-14 05:18 UTC
+    | Hey, I'm thinking of you, addiction is so terrible and I just really hope (and believe!) you will get better.
+
+    + u/Citruseok  |  7 pts  |  2026-10-14 05:50 UTC
+    | Gosh, rawdogging mental health issues with substances and overworking is so painfully relatable. I'm sorry friend. I'm right with you. 
+
++ u/Jet90  |  17 pts  |  2026-10-14 05:16 UTC
+| Vote Green if you want more funding for mental health 
+| https://greens.org.au/vic/platform/mental-health
+
+    + u/[deleted]  |  1 pts  |  2026-10-14 05:46 UTC
+    | [removed]
+
++ u/CeleryDramatic4678  |  66 pts  |  2026-10-14 05:18 UTC
+| This is very helpful and I support this 100%. Thank you for taking the time to write it. I had a nervous breakdown in August 2021 due to family violence and single parenting two kids with high support needs during lockdowns, and having a hysterectomy which added an extra layer of stress.
+| 
+| I bounced in and out of emergency and Parc and the Shepparton psych wards, overdosing and trying to “work my strategies”.
+| 
+| I was incredibly unwell and because I had an incorrect diagnosis of BPD, was seen as a time waster and attention seeker. I eventually had to cash in savings that I had received during my divorce settlement and self fund the first month of a stay at  The Albert Road clinic, and take out private health insurance for the rest of my four month stay. I had a diagnosis of major depressive disorder and had 30 treatments of ECT (shock therapy).
+| 
+| I would not be alive if it wasn’t for my parents and friends helping me to get treatment via private health. These days, I’m functioning to a high capacity, I have full custody of both children and a formal diagnosis of cPTSD, autism and ADHD. Not BPD. People who have the scarlet B for BPD on their chart are treated horribly by mental health services. Laughed at, patronised, ignored.
+| 
+| I also never call lifeline again as a worker who I called in desperation told me to “piss off”. I complained and bugger all was done. 
+
+    + u/xiaolongbao99  |  26 pts  |  2026-10-14 05:21 UTC
+    | I'm so happy that you were able to get the help you needed, even if it was difficult. You're so lucky that you had your parents and friends caring for you.
+    | 
+    | Unfortunately I do have a (correct) diagnosis of BPD, and I wouldn't wish it on anymore. It's truly so stigmatised by mental health professionals and it's no wonder it has the highest suicide rate of all mental health conditions.
+
+        + u/QualityAble2890  |  3 pts  |  2026-10-14 10:14 UTC
+        | I have BPD too and went through a really traumatic time with virtually no support. I managed to get a mental health plan and had a session with a psychologist who bulk billed but I wish I hadn't. She didn't really know anything much about it except what you can read straight off the internet about BPD and it left me more anxious and depressed
+
+            + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-18 08:13 UTC
+            | getting the wrong treatment can be so traumatising :( i had a psychiatrist who would yell and trigger me like my early unsafe home. Some ppl who work in trauma should not, in my opinon. And not all treatments are safe. And for someone with that personality vulnerability, they might find it hard to quit, or think they're the problem or just need to try harder. 
+
+        + u/CeleryDramatic4678  |  13 pts  |  2026-10-14 11:34 UTC
+        | Thank you. BPD is actually one of the mental health disorders that is possible to recover from. I fully met the criteria back in 2008, but did dbt for 6 years and have also done a shit ton of hard work on myself.
+        | 
+        | I was brought up religious and developed OCD from that, which turned into BPD. I only struggle now with anger. So much of BPD is trauma based and a response to a damaged parental attachment.
+        | 
+        | Unfortunately, I lost friends and have had to go no contact with my family since I’ve come home from hospital in June 2022. A lot of people in my life who were only wanting me to be unwell so that they could feel like they rescued me. 
+        | 
+        | There’s all sorts of overlap with all neurodivergence and personality disorders.
+        | 
+        | Keep going. You are worth it. 
+
+            + u/Acceptable-Eye-8699  |  0 pts  |  2026-10-14 13:06 UTC
+            | wow i really feel that. Like being the novelty sick friend for some of my rich and priveleged friends. 
+
+            + u/xiaolongbao99  |  2 pts  |  2026-10-14 20:57 UTC
+            | That's so lovely to hear. Did you do DBT in a group program?
+
+                + u/CeleryDramatic4678  |  4 pts  |  2026-10-14 21:10 UTC
+                | Look, I did, and I hated it. I was in AA for 20 years and the group setting with unsolicited advice wasn’t for me. It would make me rage, because they didn’t have the full backstory and would say things like “oh, that’s your anxious attachment” or “you care too much about this”….  
+                | I got the DBT handbook and worked through it with a psychiatrist- but he was very problematic and would often trigger me to see if I could handle it.
+                | 
+                | The main thing for me was that I always felt wrong and less than, so would be triggered by slight mistreatment or feeling misunderstood. Like someone standing too close to me in a line or someone cutting me off in traffic. My family of origin was not neglectful but it was traumatic, and I became the scapegoat for all our issues. Understanding that helped me see myself as whole and not a person with issues. I was a good and worthy person before life happened to me, not broken or manipulative or selfish.
+                | 
+                | That was the biggest change to my thought patterns, the one that helped the most. But also had to do a whole load of really really fucking boring shit like self care and self love, when the men just like my dad who weren’t interested in me were right there!! Haha. It’s taken a long time to become at peace with myself and believe I’m a good person who deserves to be treated well.
+                | 
+                | https://preview.redd.it/zcxt6qld0ivh1.jpeg?width=1000&format=pjpg&auto=webp&s=2c21ab62720f7b58d1411df463020b07b2cfedb0
+
+                    + u/xiaolongbao99  |  1 pts  |  2026-10-15 01:04 UTC
+                    | Hey I really appreciate this and I'm so happy with you. I'm still at a really rough part of the journey and I'll give this book a go.
+
+                        + u/CeleryDramatic4678  |  2 pts  |  2026-10-15 02:21 UTC
+                        | There’s no pressure to be anything other than how you are. The resource you’ve just compiled in your original post has the capacity to help so many.
+                        | 
+                        | Feel free to reach out if you’d like to chat more. It can seem overwhelming and daunting. I’m 50 and I didn’t start any of this until I was 32.
+
+            + u/actuallyverycooldude  |  2 pts  |  2026-10-14 23:25 UTC
+            | I did years of intense trauma based therapy and I went from ticking each box and sub box, to being almost, not  anti symptomatic, but i guess in recovery/remission. (I know these terms aren't the exact terms but I hope makes sense)
+
+                + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-16 08:23 UTC
+                | No its the right terms! They cal it renission with bpd
+
+    + u/TheCometKing  |  7 pts  |  2026-10-14 10:28 UTC
+    | I think there may, may, be some real form of issue that gets called bpd, but in practice it seems like just a label for patients they don't like.
+
+        + u/xiaolongbao99  |  14 pts  |  2026-10-14 10:45 UTC
+        | I've been told by GPs I don't have BPD because I present as too "articulate" and "introspective". That tells you a lot about what they think BPD is, a label for people who are "a mess". It's so shit.
+
+            + u/CeleryDramatic4678  |  3 pts  |  2026-10-14 11:36 UTC
+            | You are incredibly articulate. You should write a book. I’d read it.
+
+                + u/xiaolongbao99  |  2 pts  |  2026-10-14 20:56 UTC
+                | Thanks for the kind words, I love writing.
+
+            + u/Acceptable-Eye-8699  |  7 pts  |  2026-10-14 13:05 UTC
+            | ppl with bpd are absolutely articulate and introspective, very much so, what a mean thing to say from those gps :( horrible. What stigma.
+
+        + u/CeleryDramatic4678  |  6 pts  |  2026-10-14 11:36 UTC
+        | Yessss! Or if you have big feelings, oop look out! BPD! Double BPD if you’re a woman 
+
+            + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-15 09:02 UTC
+            | yes they don't know what to do with feelings. Its very hard. Or if you dont' express them in a loud way sometimes, its like you're just faking... terrible
+
+        + u/Acceptable-Eye-8699  |  2 pts  |  2026-10-14 13:05 UTC
+        | 100 percent!!!!
+
+    + u/Acceptable-Eye-8699  |  6 pts  |  2026-10-14 13:05 UTC
+    | oh yes, the ED changed for me once I had that diagnosis :( They were cruel, they didn't want me there, they told me that, they thought I was attention seeking, and they thought suiidality was manipulative. Its horrible
+
+        + u/xiaolongbao99  |  2 pts  |  2026-10-14 20:47 UTC
+        | https://www.theaustralian.com.au/weekend-australian-magazine/she-was-begging-for-help-nicholas-bpd-tragedy/news-story/aefea44bce78cc06d565222c128e7f06
+
+            + u/Acceptable-Eye-8699  |  0 pts  |  2026-10-15 04:11 UTC
+            | Its an interesting article altho i see sathya rao saying the solution is more clinics like spectrum. Not sure thads what i feel as a patient there.
+
++ u/ganny34  |  5 pts  |  2026-10-14 05:28 UTC
+| This is a great resource OP, and it tracks from my experience getting help for my mental health. Thanks for writing it up 👏
+
+    + u/xiaolongbao99  |  4 pts  |  2026-10-14 05:29 UTC
+    | I hope you are doing better you lovely person!
+
++ u/licking-salt-lamps  |  6 pts  |  2026-10-14 05:48 UTC
+| Thank you for sharing all of this. I hope it's okay for me to share what I am currently going through, as someone may have some advice.
+| 
+| I have been going between passive and active suicidal ideation for a few months due to burnout and my medication no longer being effective. My partner and I have a 6yo who is autistic and high support needs, and outside of school we are her only carers. My partner is also struggling with burnout (but won't admit it) and also challenges with his mum's health and having to take her to appointments, even though his older sister lives closer and does not work (she's given up on helping out)
+| 
+| I can't afford any private mental health care as my private health cover isn't at Gold level, and due to my physical mobility issues I can no longer travel to the GP clinic I was attending (on a main road with on-street parking). So I have to try and find someone more local to me and feel comfortable sharing things with them and hoping they can work with me.
+| 
+| If I forget to take my current medication, I become unwell, both physically and mentally, within a few hours. I'm worried about how I would be transitioned to a new medication and would feel better being in a safe setting while changing to new medication, but don't believe it's possible.
+| 
+| I almost feel like I have to schedule my mental health crisis around my family, my partner and his family, and our daughter's needs. I have pretty much no social life (due to my mobility issues I also can't currently travel to work so have to work from home), and we don't know any other families with autistic children, so have no other parents to connect with. I feel so isolated, I barely manage to look after myself, I have no self-esteem. I just don't know what to do anymore.
+
+    + u/kaleidoscopic21  |  1 pts  |  2026-10-15 09:15 UTC
+    | Maybe bulk billing Telehealth psychology from websites like someone.health?
+
+        + u/licking-salt-lamps  |  2 pts  |  2026-10-15 10:33 UTC
+        | I haven't heard of them before, but I will look into it. Thank you
+
+            + u/kaleidoscopic21  |  2 pts  |  2026-10-15 20:01 UTC
+            | If you just google “bulk billing telehealth psychology” there are a few different options to chose from
+            | 
+            | Edit: you could also check out Carers Gateway https://www.carergateway.gov.au/your-life-carer/your-life-around-caring/who-caring/caring-child
+
+                + u/licking-salt-lamps  |  1 pts  |  2026-10-15 21:53 UTC
+                | Thank you, I had forgotten about Carers Gateway
+
++ u/Citruseok  |  9 pts  |  2026-10-14 05:48 UTC
+| Thank you for sharing this!
+| This post came to me at a really good time. 
+| 
+| I suffer "mildly" but from a number of conditions. Though I present as high functioning, live independently, pay my own rent, own my own car, and hold down a full time job and stable long term relationship, I constantly feel like I'm on the verge of disintegrating.
+| 
+| I have never been medicated for any of my conditions and I instead, as I like to say, rawdog life. People who know me well say I'm surprisingly well adjusted but inside I feel like I'm in turmoil and I have no idea how to even begin seeking help. 
+| 
+| I tried Cairnmillar for a while, but they were only available on weekday mornings, which is hard to keep up with while working full time. Plus, since they are graduate students, each therapist I was assigned would move on to their placements and I'd have to "get undressed for a new person all over again".
+| 
+| I talked to my GP and found another therapist but again, she was mostly available on weekday mornings. 
+| 
+| I was diagnosed with a few of my conditions when I was very small, and have been shamed constantly into hiding them and acting through them, and so even in my adulthood I am terrified of the stigma surrounding receiving mental health support.
+| 
+| I just wish these things were easier.
+
+    + u/xiaolongbao99  |  8 pts  |  2026-10-14 06:37 UTC
+    | I am so happy this could help you! And we're very alike. A quote I really like is "high-functioning doesn't mean your condition is easier for you to deal with, it just means it's easier for other people to deal with".
+    | 
+    | I still want to disappear all the time
+
+    + u/kaleidoscopic21  |  2 pts  |  2026-10-15 08:40 UTC
+    | It could be worth trying private psychology again if you can afford it - there are quite a few psychologists who offer appointments on evenings and weekends
+
++ u/Elohelwatt  |  7 pts  |  2026-10-14 05:55 UTC
+| One thing to add is the Head to Health/Medicare Mental Health program, which can arrange free psychology sessions for short/medium term care, you can call them or there’s a few walk in clinics in Vic. For someone who is mostly functioning but needs help, eg burnout, this is another option. 
+| 
+| https://www.medicarementalhealth.gov.au/head-to-health-clinics-victoria
+
++ u/YellowSub0  |  11 pts  |  2026-10-14 05:57 UTC
+| Fyi GPs can also refer to PARC. They can be used as step up and step down mental health services. 
+
+    + u/xiaolongbao99  |  4 pts  |  2026-10-14 06:06 UTC
+    | Thank you correction made!
+
++ u/___rxqueen___  |  27 pts  |  2026-10-14 06:08 UTC
+| Thanks so much for taking the time to put this together. It’s very accurate based on my experience and helpful to explain to others who are supporting me.
+| 
+| The only thing I would add is a private psychiatrist who primarily focuses on psychotherapy. It’s a bit of a ‘loophole’ to the 10 Medicare rebated psychology sessions if you can find a psychiatrist who has that skillset, availability and is willing to take you on, suicidal ideation and all. The CATT referred me to mine. 
+| 
+| You can have 50 item 306 sessions rebated with a psychiatrist per year. Once I reached the safety net, it came down to about $30 per session.
+| 
+| Weekly therapy has kept me alive this year. I just wish everyone who needs it could access it.
+| 
+|  
+
+    + u/xiaolongbao99  |  6 pts  |  2026-10-14 06:10 UTC
+    | Yes I was actually thinking of adding in this loophole then I got lazy haha. I will add it in now. Thank you and hope you're doing well :)
+
+    + u/5tar_flower  |  1 pts  |  2026-10-14 07:11 UTC
+    | Thank you so much for sharing this info. I will try to see if I can do this. 
+
+    + u/TheCometKing  |  1 pts  |  2026-10-14 08:46 UTC
+    | Can you reccomend a specific person?
+
+        + u/Acceptable-Eye-8699  |  4 pts  |  2026-10-14 13:04 UTC
+        | I personally had a very bad experience with 2 private psychs who offer psychotherapy. Unless they've done extra training in psychotherapy, someone trained in such a medical mdoel can struggle to actually connect and care. I actually see a psych who used to offer therapy but decided it was too fragile a relationships to manage for the patient and he didn't feel comfortable continuing so went back to psychiatry only. But I do know a hnadufl who do this if u want names
+
+        + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-16 08:22 UTC
+        | https://www.yourhealthinmind.org/find-a-psychiatrist/profile/8754/dr-gabriel-feiler?country=AU&seed=81488&onlineConsultations=false&radius=10&expertiseIn=%5B%5D&servicesOffered=%5B%5D&experienceWith=%5B%5D&treatsAges=%5B%5D&languages=%5B%5D&page=1 for example
+
+    + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-15 09:04 UTC
+    | may i ask roughly how much he charges for weekly therapy? i did this as well with a psych for over a year, mixed results tho. 
+
++ u/GeneralForce413  |  18 pts  |  2026-10-14 06:24 UTC
+| Fantastic write-up - Just wanted to add that there are also many services that exist for people who are having a difficult time but aren't necessarily in crisis. 
+| 
+| There is a new program that is being trialled in the community to help people in distress and who could use some support navigating where to get support. Its for getting help with normal life events that can be hard to deal with on your own.  **Only located in Darebin and Shepparton.**  
+|   
+| "At the short-term Distress Support Service, you’ll find a calm and safe space where you can talk to someone who understands. We’ll work with you for two to three weeks to figure out what’s causing your distress and support you to find ways to manage it.  
+|   
+| We’re part of the Darebin community and have strong connections with other services that can support you too. If you need more ongoing support, we can connect you with trusted local services.  
+|   
+| If you identify as Aboriginal or Torres Strait Islander, you can talk to an Aboriginal support worker. You can yarn with someone who gets it, whether you’re looking for cultural connection or support outside of the community."
+| 
+|   
+| [https://www.ermha.org/dss/](https://www.ermha.org/dss/) (Darebin)  
+| [https://www.mindaustralia.org.au/services/distress-support-service-yurri-mulana](https://www.mindaustralia.org.au/services/distress-support-service-yurri-mulana) (Shepparton)
+
++ u/IAmABakuAMA  |  8 pts  |  2026-10-14 06:42 UTC
+| You might also like to add into your post a section about YPARCs, which are the youth version of PARCs. From memory it's for 16-25s. I looked at getting a referral to one earlier this year when I was in the pits but didn't end up seeing my GP to get the referral
+| 
+| I did a fair bit of research into them, and the general idea is that they're meant to be a halfway point between hospitalisation and entirely community service (they also offer a "step down" model which is a transition for those exiting an inpatient stay who still need more support than entirely outpatient but no longer meet the bar for an inpatient hospital stay). It's voluntary, and you also get to leave the program during the daytime to go home and can continue going to school/uni. This was a particular draw for me because I've got a cat and couldn't afford boarding if I needed to be admitted somewhere. I'm not sure if leave is every day or only some days. Max 28 day stay (but they also do 7 or 14 day stays if that's what everyone thinks would be helpful). Also private bedrooms, at least at the parkville one
+| 
+| The Parkville campus (PYMHWS) offers other services beyond just being a YPARC, and also has a phone number young people can call to sketch out a plan on how to get help. I've not used that either but I think it's similar to lifeline in that it's not a counselling service, but it's more of an entryway into their services. They say "every door is the right door" which makes it sound pretty helpful. The YPARC still needs a referral from a healthcare professional, like the adult PARCs do
+| 
+| Thanks for making this post by the way! You should consider sending the mods here a modmail and see if it might be possible to have your post linked in the wiki, to make it easier for others to find
+
+    + u/xiaolongbao99  |  2 pts  |  2026-10-14 08:34 UTC
+    | Yes will add that! Thank you for sharing your experience ❤️
+
+        + u/-Turbulent-Apple-  |  7 pts  |  2026-10-14 09:30 UTC
+        | There is also a women’s only PARC Yanna Yanna in the west that isn’t catchment based (for anyone identifying as a woman) - this one also has a few beds that can take women with their kids 
+        | 
+        | The Wellbeing Locals are another service that might be worth adding which are in some catchments only and you can drop in to get support pretty quickly. 
+        | 
+        | Excellent list BTW ☺️
+
+            + u/Acceptable-Eye-8699  |  2 pts  |  2026-10-14 15:01 UTC
+            | Thanks for sharing this is amazingly helpful 
+
++ u/AusCro  |  19 pts  |  2026-10-14 06:46 UTC
+| Fantastic write up. I feel like the existing system is made to make people distantly worried about mental health feel like something is being done, rather than doing anything to help.  
+|   
+| It's as if we've got ambulances driving around the streets, but no hospitals and doctors 
+
+    + u/xiaolongbao99  |  12 pts  |  2026-10-14 06:51 UTC
+    | You've described this perfectively. It's a lot of risk assessments and referrals, but no actual treatment.
+
+        + u/actuallyverycooldude  |  5 pts  |  2026-10-14 23:32 UTC
+        | Not being sick enough for treatment, because being sick enough means you've basically got to be mid "attempt" for anything to be done. There aren't enough preventative treatments svailable. And having to essentially surrender and call a family member/friend and say hey I'm having serious SI, its so scary. And then you've got to present these things to strangers you don't know. It takes guts to do that, and receiving a kick in the teeth for it is so demoralising. 
+
+            + u/xiaolongbao99  |  3 pts  |  2026-10-14 23:47 UTC
+            | It's so true that you practically have to be mid attempt. It's awful.
+
++ u/5tar_flower  |  10 pts  |  2026-10-14 07:04 UTC
+| Thanks for this post. It's very true. I've struggled for years and asked for help but most of it is either tailored to short-term 'i need someone to talk to about this stressful situation' kind of counselling or crisis management (which I haven't accessed but sometimes felt like I was unwell enough that maybe I should have). I haven't been able to afford long-term psychotherapy but I think that's what is needed. 
+| 
+| I've never called Lifeline but I did call https://suicideline.org.au/ and talked to a very kind woman who was definitely doing crisis counselling. She didn't just tell me to make a cup of tea. She also said that I could book another free phone counselling session if I wanted to but I didn't take up the offer. This is from the website:
+| 
+| You do not need a medical referral to contact our service and speak to a counsellor. This means you can access free, professional counselling at any time by simply calling 1300 651 251 
+| SuicideLine Victoria can provide a one-off counselling session, or you may be eligible to receive up to four additional sessions.
+
+    + u/xiaolongbao99  |  6 pts  |  2026-10-14 08:22 UTC
+    | Hey! OMG I believe I spoke to this line two years ago, the man I got was genuinely SO amazing. Out of all the phone lines, this one actually helped me.
+    | 
+    | I'm so glad this could help you and it's helped me too - I didn't know about a lot of these resources either.
+
++ u/scjyf  |  12 pts  |  2026-10-14 07:11 UTC
+| Awesome post!! Just wanted to make a quick correction that the safety net will cover 80% of the out of pocket cost, having a healthcare card reduces the threshold to $861.20, and it covers everything. So you can add to your threshold through any Medicare-covered appointment with anyone inc psychologist, GP etc. And once you’ve met the threshold, the 80% covers everything too, not just psychiatry. A few years ago I met it (concession one) very early in the year and it made my OOP costs much lower for everything which meant I was able to see specialists for cheaper for the rest of the calendar year 
+
+    + u/rosecallaghan69  |  1 pts  |  2026-10-16 14:06 UTC
+    | Just adding that there is a maximum rebate cap for medicare if you hit the safety net so sometimes you can't get the full 80% back. I only found this out recently because one of my (non mental health) specialists charges insane fees ($1500 for initial appointment) and i was banking on getting $1200 back but the rebate cap was $860 or something
+
+        + u/scjyf  |  1 pts  |  2026-10-17 02:18 UTC
+        | Yup and you can find that all on the MBS site, I’ve luckily never had that issue but to think some charge way more than the max cap is insane!
+
++ u/NorthernSkeptic  |  5 pts  |  2026-10-14 07:34 UTC
+| Incredible and valuable post. Thankyou for what is both a crucial guide and a spotlight on the massive inadequacies of our system.  
+
++ u/Public_Knowledge_980  |  1 pts  |  2026-10-14 07:51 UTC
+| For someone trying to act on this, a short checklist at the top could help: postcode/catchment, who can make the referral, whether the service accepts new referrals, fees to confirm and who to contact if the first referral isn't accepted. I'd put official service links and a 'last checked' date next to the costs/eligibility sections, and label personal experience separately from policies that can change. That would let readers use the guide without assuming every pathway or bill will be the same for them.
+
+    + u/xiaolongbao99  |  1 pts  |  2026-10-14 08:04 UTC
+    | This would be helpful, I'm a bit burnt out, if any good Samaritan is willing to do this work and send me it I can edit the post!
+
++ u/ServicePlastic766  |  1 pts  |  2026-10-14 08:12 UTC
+| There are telehealth bulk-billing psychologists through someone.health , www.remotetherapy.com.au and if you're in regional Vic there is also ruralhealthconnect.com.au
+| 
+| I don't have personal experience using these though so if anyone has used them, please feel free to comment on how your experience has been with them!
+
++ u/Choice-giraffe-  |  7 pts  |  2026-10-14 08:16 UTC
+| I will always advise against lifeline. It’s useless. As a previous lifeline volunteer I’ve seen it from  
+| The inside and it is not worth anyone’s time. 
+
+    + u/Acceptable-Eye-8699  |  2 pts  |  2026-10-14 13:08 UTC
+    | theyve helped me in the past tbh. Its hit and miss. But some good ppl there
+
+        + u/Choice-giraffe-  |  5 pts  |  2026-10-14 18:36 UTC
+        | There are good people there of course, but the guidelines of what you can say are very strict. For my induction when I had people listening in to my calls as training, multiple times I was told off for being too ‘helping’ and that I need to just listen and can’t give advice or suggestions. 
+
+            + u/Acceptable-Eye-8699  |  2 pts  |  2026-10-15 01:11 UTC
+            | Yes ive heard that as i had an ndis worker wjo worker there. Thats annouing
+
++ u/ServicePlastic766  |  6 pts  |  2026-10-14 08:18 UTC
+| I would also highly recommend the Peer Care Warmline that's run by people who have themselves experienced suicidal thoughts and are trained to navigate conversations abt suicide. They're also very queer friendly. https://rosesintheocean.com.au/peer-care-companion-warmline/
+
++ u/TheCometKing  |  2 pts  |  2026-10-14 08:51 UTC
+| I am not currently suicidal, but have been in the recent past. My social worker recommended PARC, as did several friends from different catchment areas. But St Vincent's basically just said there is nothing they can do, while suggesting that if I do get actually serious I should call 000, even though I had already said I was barely able to seek help at all due to trauma around a friend dying after going to the ward. Weirdly it's a relief: at least the locked ward I was scared of isn't a realistic risk.
+
+    + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-14 13:10 UTC
+    | thats really not good :( i'm sorry that happened. It sounds like u would've been suitable for parc... i'm not a clinician but that what its for. I had a really good experience in the SVMH hub, just showing up, but i'm very sorry, i know not everyone who answers the phones or offers support truly cares. 
+
++ u/JamieWil  |  8 pts  |  2026-10-14 08:54 UTC
+| Thanks for the comprehensive information. I also want to add in Care in Mind. A GP can refer you. Free therapy. I am in this program. 
+| 
+| But to be honest, you don’t really have a choice of who you get and I was given a person who is just a mental health nurse and I sit down and talk to them every couple of weeks and their lack of experience dealing with someone who has complex mental health issues is really telling unfortunately :( 
+| 
+| https://nwmphn.org.au/our-work/mental-health/careinmind-mental-health-services/ 
+
+    + u/-Turbulent-Apple-  |  5 pts  |  2026-10-14 09:34 UTC
+    | Yes good mention - just want to add that this is only available to people in their catchment (just the North West area)
+
++ u/Fionalg  |  3 pts  |  2026-10-14 09:02 UTC
+| OP thankyou for sharing all of this information. Its really insightful, and well pretty concerning to see how one could get stuck in a revolving door when they're most at risk. 
+| 
+| Do you have any thoughts on ancillary types of health/wellbeing support services that can sometimes be offered through health insurance providers, super funds or life insurance providers? There's often mental health services that can cut through public system waiting times and work closely with your GP and/or offer second opinion services but im not sure how valuable they are for critical cases. 
+
+    + u/xiaolongbao99  |  2 pts  |  2026-10-14 09:17 UTC
+    | Hey thanks! I think these services are generally be staffed by counsellors instead of psychologists. There's definitely a place for them, but unfortunately for me my case is quite complex and requires someone who really specialises in this area.
+
++ u/bigwhitesheep  |  9 pts  |  2026-10-14 09:21 UTC
+| Just flagging HOPE (hospital outreach post-suicidal engagement) teams. Based at each hospital mental health service, free 12 weeks of support for people who have attempted suicide, or have suicidal ideation. This can be accessed through mh triage (you can call or ask someone (family, friend, GP etc to call on your behalf if needed), presenting to ED etc. HOPE provides psychiatry, weekly session with a clinician,  psychosocial support, peer work and family therapy & will help to plan next steps after discharge as well.  
+| 
+| Medicare mental health or MH wellbeing local/head to health is also a really good starting point for support outside of the hospital system. 
+| 
+| Also want to suggest to people to think about mental health social workers, ots and nurses as a really good options for therapy. There is too much focus on psychologists in Australia as being the only option for individual support unfortunately.
+
++ u/Stuff_around321  |  5 pts  |  2026-10-14 10:50 UTC
+| This is an invaluable tool for someone like me who has recently had a family member diagnosed with depression. In the weeks leading up to the diagnosis, I didn't know where to turn. My mum (the person diagnosed) kept saying to me "Can I just ring an ambulance to take me to the ER?" but we felt that she wouldn't get seen or get a bed. 
+| 
+| I spoke to someone from Lifeline and they informed me about the Mental Health Triage and CATT. They also i asked if I was ok and had a support network around me (which I did, thankfully.)
+| 
+| As Mum only had default hospital cover and had used the mental health waiver 3 years prior, it was going to cost $4662 for 1 week at Delmont, (where she was admitted previously.)
+| 
+| She was prescribed anti-depressants, and chose not to go to the psych hospital, so we'll hopefully start to see an improvement soon.
+| 
+| 
+
++ u/Agreeable_Grape_8083  |  3 pts  |  2026-10-14 11:31 UTC
+| Does anyone have any information for someone experiencing crisis (I.e. suspected post partum psychosis / delusions/ SI/ intrusive thoughts of harm) freshly post partum? Are there any mum and baby unitS because bub is too small and breastfeeding etc? How can a mum access these ? 
+
+    + u/Gullible-Contest8699  |  4 pts  |  2026-10-14 12:58 UTC
+    | There is PANDA which helps with postpartum  
+    | issues, but this is just another helpline, so there wouldn’t be much crisis support/intervention, but more referrals and general advice. But since they specialise in perinatal mental health conditions, they might have more knowledge around dedicated programs/resources, so definitely worth having a chat to them:
+    | 
+    | https://www.panda.org.au
+
+    + u/universe93  |  1 pts  |  2026-10-14 14:07 UTC
+    | There are some psych services that have mother and baby programs and wards yes 
+
+    + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-14 15:07 UTC
+    | Does wren offer this or cabrini women?
+
+    + u/Major-Contribution77  |  7 pts  |  2026-10-14 16:18 UTC
+    | MH clinician here, your comment made me ‼️ When working with new families I always want to emphasise that those thoughts don’t make parents bad people and asking for help is so hard - this is something that can impact mums and dads. 
+    | 
+    | Yes there are MH units & services for women and babies: https://www.health.vic.gov.au/mental-health-services/mother-and-baby-mental-health-services
+    | 
+    | Depending on the hospital and the type of pre & postnatal care, she may have several check in appointments with midwives. This would be a good point to raise concerns.
+    | 
+    | Another option is your GP, letting them know the concerns. Otherwise, reaching out to the MCHN - they can refer to the enhanced MCHN https://www.health.vic.gov.au/publications/enhanced-maternal-and-child-health-program-guidelines 
+    | 
+    | You can also contact your area’s MH triage 24/7 https://www.health.vic.gov.au/practice-and-service-quality/mental-health-triage-service wait times to call through are often longer in the evenings and from the afternoons onwards on the weekend. Sometimes you may have to call multiple times, as the OP identified it can be challenging to receive services. 
+    | 
+    | My advice is to contact multiple avenues and for public services - call multiple times. Don’t downplay concerns (also don’t wildly exaggerate concerns please), tell them the behaviour and what you’re worried about. When there are multiple (genuine) help seeking contacts, the system gets uncomfortable because what if the worst case scenario happens? We have to consider the possibility of our decisions being scrutinised by the Coroner. 
+    | 
+    | If there is a serious safety concern for mum or the baby, call 000. 
+
++ u/Chemical-Special1171  |  5 pts  |  2026-10-14 11:44 UTC
+| Quality post, this will help lots of people. 
+| 
+| Just adding my experience with Austin CAHMS, which is a 24 hour mental health triage for children and youth. My 7 year old with a disability was behaviourally out of control and talking about suicide. We already had a very involved paediatrician and GP and my child on multiple medications already. 
+| 
+| I had nowhere else to turn, so I called in crisis around 8pm, the line diverted to the adult CATT service. I was told they can’t assess children, that service actually finishes at 5pm, so call back tomorrow. Which I did. My details and issues were taken, told we met the threshold for assessment and support, and assigned to a care worker, who would call for more details, in the next three weeks!!   
+| I never received a phone call. I called again multiple times, left several voicemails, spoke to admin who confirmed my number etc. I was never once contacted by the case worker. I received a letter in the mail about 2 months later saying as I didn’t answer their phone calls they were closing my enquiry. 
+| 
+| This experience was absolutely appalling.
+
+    + u/Acceptable-Eye-8699  |  3 pts  |  2026-10-14 15:00 UTC
+    | Wow. No words
+
++ u/sunshine7bubbles  |  2 pts  |  2026-10-14 12:51 UTC
+| Headspace can provide supports for those up to 25 years old. 
+
++ u/Substantial_Fox_121  |  3 pts  |  2026-10-14 13:23 UTC
+| The part you put in bold is endemic of systems that are stretched too thin. The only solution is more funding into prevention nexuses and communities that care
+
++ u/universe93  |  2 pts  |  2026-10-14 14:06 UTC
+| Having been to the ED and admitted to a public psych ward in 2023 I wouldn’t say what you’ve said about either is accurate. I’ve been to ED three times while suicidal and I’ve never waited 6 hours. I was admitted because I had a plan to die in the next couple of days and it was not a chaotic and scary environment - it can be if you’re placed into acute where some people detoxing from drugs or alcohol, but if you don’t have those issues you’re more likely to be placed in subacute which is a lot calmer. 
+
+    + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-14 14:59 UTC
+    | Fro my experien f e it depends on the ED. I also had a life changing engagement with catt which many find not helpful. Catchment dependent a lot of these things
+
+    + u/xiaolongbao99  |  -1 pts  |  2026-10-14 20:40 UTC
+    | Your experience was in 2023. Have you considered that things have changed since then? My experience was from a month ago and this was definitely the case, and there's numerous other comments here corroborating my experience. Don't assume your good experience from three years ago is still applicable today and that the system isn't deeply broken.
+
+        + u/kaleidoscopic21  |  3 pts  |  2026-10-15 09:16 UTC
+        | I think it can really depend on the area. In my catchment, presenting to ED can result in being referred to outpatient psychology
+
+            + u/Acceptable-Eye-8699  |  1 pts  |  2026-10-17 03:43 UTC
+            | several public hospitals have hubs, in my view these are a bit better, (still not perfect). Sometimes the ED isn't safer, sometimes it is, its case by case
+
++ u/nogitsunes  |  14 pts  |  2026-10-14 14:28 UTC
+| In addition to how utterly depressing the state of the public mental health system is, what really scares me is the way the NDIS is moving especially in relation to psychosocial disability aka a huge cohort of disabled people struggling with mental illness. They're being put up on the chopping block as prime targets for funding cuts and access removals and are perpetually being shoved off onto the public system. Yet like you, anyone who has interacted with the public mental health system knows it is even more wholly unequipped to provide actually accessible support even in a decent level of crisis and incapacity. I honestly have no doubt these sorts of cuts (among all the rest) will kill people as there are simply too many existing gaps in the system and it just feels like the government continues to purposefully widen the cracks.
+
+    + u/actuallyverycooldude  |  7 pts  |  2026-10-14 23:20 UTC
+    | 100% this. I've told them they'll have blood on their hands for these cuts, since 2022, and there are no signs it'll get better in the public system, we all know prevention costs a lot less than a bed in the system, yet I dont know how to make it any more obvious to them. Noone gives a shit and it feels like they would prefer us just die. I can't wrap my head around it. 
+
++ u/Miss_Bee15  |  4 pts  |  2026-10-14 15:13 UTC
+| I was suicidal in July last year and when I tried calling LifeLine… it didn’t even go through. I called the Suicide Prevention Line instead and omg they were REALLY good. They were the first to explain to me that I had been in an abusive relationship in which I was now in a crisis over (had already broken up) as it was a trauma bond. They then referred me to 1800 RESPECT who echoed their words. It kickstarted me going to therapy and understanding what happened. I’m still struggling (now 2 years since breakup) because it was a really manipulative situation that deeply affected me/made a really strong trauma bond. I do have a lot of respect for those people that night as I was at rock bottom. 
+| 
+| In a separate issue, as a late-teen I was recommended for ED programmes but they had no room. It’s a huge issue 
+
++ u/yogoyeti  |  1 pts  |  2026-10-14 22:03 UTC
+| Ive been stuck in 2 years of round robin with the services here because of conflicting communication and constant mistakes between staff, its gotten so much worse from covid . its like they just kept every department a skeleton crew.  Would you think there would be grounds for a legal class action against the state for this damaging underpaid system? 
+
++ u/cheezeeey  |  5 pts  |  2026-10-14 23:09 UTC
+| The state of the system us terrible if you don’t have money and have even slightly more complex mental health needs. 
+
+    + u/Acceptable-Eye-8699  |  3 pts  |  2026-10-15 09:03 UTC
+    | i feel like money or family is what you need, to survive it. it breaks you down to advocate for yourself constantly. 
+
++ u/actuallyverycooldude  |  5 pts  |  2026-10-14 23:16 UTC
+| Legend, thank you.
+
+    + u/xiaolongbao99  |  1 pts  |  2026-10-14 23:48 UTC
+    | 🫶
+
++ u/Acceptable-Eye-8699  |  5 pts  |  2026-10-15 01:33 UTC
+| Its interesting therrs so many posts about this and so many of us have same experience. From whaf i went through when it works public is amazing but if u grt a bad person it can be terrifying and no one will believe u or care. Its alottery
+
++ u/Infamous_Football_34  |  2 pts  |  2026-10-15 08:02 UTC
+| Hey just wanted to add a comment that may help people and please know I'm not criticising lifeline when I say this. Op is 100% correct that volunteers work on lifeline. They do get training but they are all volunteers and you may connect with someone who has additional skills in the area but you they also may not. Lines like Suicide Line Vic and Suicide Call Back Service are a part of LifeLine but are essentially more specialised. Counsellors working on these lines and mensline are paid and must have social work, counselling or psychology qualifications and experience. 
+
++ u/Acceptable-Eye-8699  |  4 pts  |  2026-10-15 09:13 UTC
+| hey i have cptsd and have tried almost everything here lol. What a fucked system. Thank you for sharing
+| 
+| HOPE program was really good for me, and if you get to be case managed at a hospital they also have group programs which are pretty good, like ACT, CBT or practical things like cooking or gardening. Its nice to be with other ppl as well going through a rough time, we get each other.
+| 
+| Private system is also hard to navigate, but in different ways. I've seen ppl in psych wards get sick or suicidal etc and their psychs chuck them out very roughly, the psychs are so powerful, and have such long waitlists - there's always another patient. I saw a psychiatrist weekly for psychotherapy and it went very pear shaped. At the time I thought I was winning because it was affordable, and gave me access to admissions and pretty much weekly psychotherapeutic support and monitoring.
+| 
+| I personally prefer to work with private clinicians who have good knowledge of the public system to. I find some private ones aren't very knowledgable about ndis, or public offerings, and tend to operate in their own world. I like that my current psych knows the system very well, private and public. I want someone at least one step ahead.
+| 
+| Thank you for sharing this amazing post for all us struggling in this stystem. I hope something changes.
+
++ u/solipsistguy21  |  2 pts  |  2026-10-15 11:13 UTC
+| Great summary.
+
++ u/Budget-Recover-8966  |  1 pts  |  2026-10-15 11:27 UTC
+| Also, usually there is a number for Psychiatric triage, a number that the person itself or family/friend can call and they will assess you on phone and give you advice what to do next. 
+| 
+| https://www.health.vic.gov.au/practice-and-service-quality/mental-health-triage-service
+| 
+| 
+
+    + u/xiaolongbao99  |  1 pts  |  2026-10-15 11:47 UTC
+    | Hey! I put this in my post, you might have missed it 😊
+
++ u/Fabulous_Shoulder933  |  2 pts  |  2026-10-15 15:17 UTC
+| Thank you. I have never heard of suicide line and yes lifeline is useless 
+
++ u/AdditionalBug6402  |  1 pts  |  2026-10-16 12:09 UTC
+| Thank you so much 👍🏽
+
++ u/AngelofGrace96  |  1 pts  |  2026-10-17 01:00 UTC
+| I am a client of a program called Aftercare, which is run by a group called Mind Australia. Aftercare offers free sessions with counsellors and peer workers, up to 20 a year, to discuss lived experience with suicideal ideation. There's also a weekly zoom group where members of Aftercare catch up, talk about how they're going and anything they're struggling with. It's very openly anti hospitalisation, so members don't have to worry about being hospitalised for discussing suicidal thoughts.
+| 
+| You do need a referral, but once you're in the program you can be internally re-referred. 
+
++ u/nutmegdealer  |  1 pts  |  2026-10-18 16:00 UTC
+| I have bipolar disorder and a few other diagnoses. I work full-time as well and work completely independently. It drives me insane how expensive therapy is, how the rebate is lacking significantly and the out of pocket cost is very high, I get no health care card even though I have a chronic condition and I have to pay for all therapy and medications out of my own pocket with absolutely no support at all. I can't afford to not work and if I don't work I can't afford treatment so it is non-negotiable. I believe health care cards should be awarded if you have a serious and permanent and chronic condition and should not be purely income based. I paid $32k in taxes last year and I get fuck all and then just expected to be 100% normal. Without even getting into the stigma of the condition. I hate this disease and I hate how piss poor our mental health system is. And I am one of the lucky ones....
+
++ u/Shoe-Shoddy  |  1 pts  |  2026-10-18 23:30 UTC
+| You've forgotten to mention the extreme levels of judgement you'll be exposed to through any of these services, that a lot of these options will not treat certain types of illness, and if they do offer anything, how cold the treatment will be. 
+
+[reply to a comment missing from the archive]
++ u/Acceptable-Eye-8699  |  1 pts  |  2026-10-19 07:42 UTC
+| Would spectrum be an option? If u need any tips on how to get in u can pm me. 
+
