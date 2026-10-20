@@ -57,25 +57,29 @@ fi
 API="${API:-https://arctic-shift.photon-reddit.com/api}"
 UA="termux-reddit-to-text/2.0"
 
-# GET an API path; prints JSON, fails on HTTP/API errors.
+# GET an API path; prints JSON, fails (showing the archive's error) on HTTP/API errors.
 get() {
-  local body
-  body=$(curl -sSL --compressed -A "$UA" --retry 3 --retry-delay 5 -f "$API/$1") || return 1
-  echo "$body" | jq -e 'has("data") and (.data != null)' >/dev/null 2>&1 || return 1
+  local body code
+  body=$(curl -sSL --compressed -A "$UA" --retry 3 --retry-delay 5 -w '\n%{http_code}' "$API/$1") || return 1
+  code="${body##*$'\n'}"; body="${body%$'\n'*}"
+  if [ "$code" != 200 ] || ! echo "$body" | jq -e 'has("data") and (.data != null)' >/dev/null 2>&1; then
+    echo "   archive said (HTTP $code): $(echo "$body" | jq -r '.error // .' 2>/dev/null | head -c 200)" >&2
+    return 1
+  fi
   echo "$body"
 }
 
 # Fetch every result of a search endpoint (100 per page, oldest first),
 # printed as one JSON array.
 get_all() {
-  local q="$1" after=0 page last pages=()
+  local q="$1" after="" page last pages=()
   while :; do
-    page=$(get "$q&limit=100&sort=asc&after=$after") || return 1
+    page=$(get "$q&limit=100&sort=asc${after:+&after=$after}") || return 1
     pages+=("$page")
     [ "$(echo "$page" | jq '.data | length')" -lt 100 ] && break
     last=$(echo "$page" | jq '.data[-1].created_utc | floor')
     # Back up one second so items sharing the last timestamp aren't lost.
-    [ "$last" -le "$after" ] && break
+    [ "$last" -le "${after:-0}" ] && break
     after=$((last - 1))
     sleep 1
   done
